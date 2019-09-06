@@ -1,4 +1,4 @@
 # Teste Teste
 
-!["teste"](./images/teste.png)
+![teste]("/storage/PrimeiroRepo/images/teste.png")
 fazendo este teste para garantir que foi testado anteriormente.
